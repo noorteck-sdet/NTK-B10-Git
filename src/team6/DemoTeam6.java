@@ -11,6 +11,8 @@ public class DemoTeam6 {
 		System.out.println("Made it ");
 		
 		System.out.println("Sukhmeet");
+		System.out.println("Test1");
+		System.out.println("Test2");
 	}
 	void addInfo() {
 		return;
