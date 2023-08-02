@@ -8,5 +8,8 @@ public class DemoTeam6 {
 		System.out.println("Adel Zaki");
 		System.out.println("Adel Zaki2");
 	}
+	void addInfo() {
+		return;
+	}
 
 }
