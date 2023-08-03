@@ -10,5 +10,16 @@ public class DemoTeam4 {
 		System.out.println("Khwaja Sediqi");
 
 	}
+	
+	public static void getInfo() {
+		
+		System.out.println("Information");
+		
+		
+		
+		
+		
+		
+	}
 
 }
