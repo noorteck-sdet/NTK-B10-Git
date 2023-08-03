@@ -18,5 +18,8 @@ public class DemoTeam6 {
 	void addInfo() {
 		return;
 	}
+	public static void add() {
+		return;
+	}
 
 }
