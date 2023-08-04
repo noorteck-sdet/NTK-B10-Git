@@ -8,6 +8,8 @@ public class newDemo {
 		
 		
 		System.out.println("This is Khwaja");
+		
+		System.out.println("Java is Fun");
 	}
 
 }
